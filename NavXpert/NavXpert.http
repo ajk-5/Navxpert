@@ -1,0 +1,6 @@
+@NavXpert_HostAddress = http://localhost:5215
+
+GET {{NavXpert_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
